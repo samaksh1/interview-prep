@@ -34,4 +34,18 @@ This website is a basic tool for students preparing for internships and placemen
 
 ![addexp](https://user-images.githubusercontent.com/45677985/107876061-8a338680-6ee9-11eb-8d9b-c44264b809e5.png)
 
+Inorder to run the website locally on your computer , follow the steps given below:
+
+*   Download the files from the github repo.
+*    Go into the downloaded folder and run the command 
+        ```
+        npm install
+        ```
+*   The above command will install all the required packages and dependencies required for the project
+*   The final step is to run the following command 
+    ```
+    nodemon app
+    ```
+After doing the above steps go to your browser and type `localhost:3000`.
+
 Click [here](https://youtu.be/eizymb_YDo4) to watch a short video with demonstration of the website
